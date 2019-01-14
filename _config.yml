@@ -75,7 +75,7 @@ social-network-links:
 #   email: "someone@example.com"
   github: tbeede
 #   twitter: daattali
- linkedin: tbeede
+ linkedin: "https://www.linkedin.com/in/tbeede/"
 #  stackoverflow: "3943160/daattali"
 #  telephone: +14159998888
 #  twitch: yourname
