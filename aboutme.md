@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm a Software Developer from South Carolina who started as a QA tester writing code to automate repetitive, manual processes that were eating up my team's valuable development time. After saving my team and myself so much time on daily tasks, I was hooked and started focusing more on writing code. Now I'm a completely dedicated Software Developer, and while I still enjoy writing automation, I prefer to concentrate on web application development, dabbling in various areas around the stack. I love to learn, talk, and read up on all the latest development technologies.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+***My History***
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm having some trouble remembering right now, so why don't you head over to my [LinkedIn](https://www.linkedin.com/in/tbeede/) profile!
