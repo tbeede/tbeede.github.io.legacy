@@ -12,6 +12,8 @@ In my free time, I really enjoy playing music whether it be drums, guitar, or us
 
 You may be wondering if that smiling guy in the top hat with a [churchwarden](https://en.wikipedia.org/wiki/Churchwarden_pipe) clenched between his teeth is me. I am sorry to say that he is not. He is Sherlock Holmes as portrayed by [Jeremy Brett](https://en.wikipedia.org/wiki/Jeremy_Brett), and is one of my favorite actors to portray the famous detective. Needless to say I admire Holmes's problem solving abilities and think he would have made a great programmer!
 
-###My Work History
+__________
+
+**My Work History**
 
 Head over to my [LinkedIn](https://www.linkedin.com/in/tbeede/) profile to see all the fancy job titles I've held!
